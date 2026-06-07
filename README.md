@@ -11,6 +11,7 @@ Two-task competition on Bengali long-form audio: automatic speech recognition an
 
 - [Task 1 Leaderboard](https://www.kaggle.com/competitions/dl-sprint-4-0-bengali-long-form-speech-recognition/leaderboard)
 - [Task 2 Leaderboard](https://www.kaggle.com/competitions/dl-sprint-4-0-bengali-speaker-diarization-challenge/leaderboard)
+- [Paper: WhisperAlign (arXiv:2603.04809)](https://arxiv.org/abs/2603.04809)
 
 ---
 
